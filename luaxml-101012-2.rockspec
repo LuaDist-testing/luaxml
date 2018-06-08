@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "luaxml"
-version = "101012-1"
+version = "101012-2"
 -- LuaDist source
 source = {
-  tag = "101012-1",
+  tag = "101012-2",
   url = "git://github.com/LuaDist-testing/luaxml.git"
 }
 -- Original source
@@ -29,7 +29,7 @@ preserved in a read/write cycle.
    maintainer = "djerius@cfa.harvard.edu"
 }
 dependencies = {
-   "lua >= 5.1"
+   "lua = 5.1"
 }
 build = {
    type = "builtin",
