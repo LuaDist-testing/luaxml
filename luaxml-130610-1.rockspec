@@ -1,15 +1,15 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "luaxml"
-version = "101012-2"
+version = "130610-1"
 -- LuaDist source
 source = {
-  tag = "101012-2",
+  tag = "130610-1",
   url = "git://github.com/LuaDist-testing/luaxml.git"
 }
 -- Original source
 -- source = {
---    url = "http://viremo.eludi.net/LuaXML/LuaXML_101012.zip",
+--    url = "http://viremo.eludi.net/LuaXML/LuaXML_130610.zip",
 --    dir = '.'
 -- }
 description = {
@@ -29,7 +29,7 @@ preserved in a read/write cycle.
    maintainer = "djerius@cfa.harvard.edu"
 }
 dependencies = {
-   "lua = 5.1"
+   "lua ~> 5.2"
 }
 build = {
    type = "builtin",

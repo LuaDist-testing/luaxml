@@ -4,7 +4,7 @@
     <string id="author">     J&#228;ne.Roe@t&#252;bingen.com </string>
     <string id="version">    0.5.0                         </string>
     <string id="date">       2004-11-23 - 2006-08-18       </string>
-    <string id="shortDescr"> a demonstration application for veLib Lua scripting </string>
+    <string id="shortDescr"> a demonstration application for XML&#10;Lua scripting </string>
     <string id="usage">      [ -i(ini.xml) ] </string>
     <tag id="emptyAttr" attr="" />
   </applicationInfo>
